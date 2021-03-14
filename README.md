@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on building things to advance my career!
-- 🌱 I’m currently learning MS Azure.
+- 🌱 I’m currently figuring out which coding certs are most useful.
 - 👯 I’m looking to collaborate on freelance coding projects.
 - 🤔 I’m looking for help with Git repos.
 - 💬 Ask me about my zodiac sign.
