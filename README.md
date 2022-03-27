@@ -12,6 +12,6 @@
 - ⚡ for potential collaborators: i'm easily wooed with Edible Arrangements
 
 ## if you need more than this...
-- 💻 a little preview: https://www.kaggle.com/tylerhuxtable
-- 📫 reach me: mailto:tshuxtable@gmail.com
+- 💻 [a little Kaggle preview](https://www.kaggle.com/tylerhuxtable)
+- 📫 [reach me](mailto:tshuxtable@gmail.com)
 - 🗣️ 日本語
