@@ -7,7 +7,7 @@
 ## In short...
 - ♟️ currently developing a 2D game engine in C++
 - 📈 happy to collaborate on data projects
-- 🏛️ occasionally create little projects for my actual job, usually in VB(A), Python (numpy, pandas, scikit-learn, NLTK, tensorflow), and JavaScript (AJAX, JSON)
+- 🏛️ occasionally create little projects for my actual job, usually in VB(A), Python (numpy, pandas, scikit, NLTK), and JavaScript (MERN stack)
 - ⚡ i'm easily wooed with Edible Arrangements
 
 ## If you need more...
